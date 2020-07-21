@@ -12,10 +12,12 @@ I’m currently learning
 ## How to reach me
 
 You can contact me at [raflyfahrezi.vercel.app/contact](https://raflyfahrezi.vercel.app/contact)
+
 \
 \
 \
-Martin Foweler said,
+
+Martin Fowler said,
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 
 
 <!--
