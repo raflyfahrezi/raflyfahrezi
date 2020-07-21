@@ -5,9 +5,9 @@ I'm a student of Universitas Komputer Indonesia majoring in Informatics Engineer
 ## Learn
 
 I’m currently learning
-      * Next.js
-      * PWA
-      * TWA
+   * Next.js
+   * PWA
+   * TWA
 
 ## How to reach me
 
