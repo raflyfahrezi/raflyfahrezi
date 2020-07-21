@@ -13,12 +13,8 @@ I’m currently learning
 
 You can contact me at [raflyfahrezi.vercel.app/contact](https://raflyfahrezi.vercel.app/contact)
 
-\
-\
-\
-
-Martin Fowler said,
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 
+## Quotes
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler
 
 <!--
 **raflyfahrezi/raflyfahrezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
