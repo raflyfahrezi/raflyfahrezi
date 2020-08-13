@@ -6,6 +6,7 @@ I'm a student of Universitas Komputer Indonesia majoring in Informatics Engineer
 
 I’m currently learning
    * Next.js
+   * Gatsby
    * PWA
    * TWA
 
