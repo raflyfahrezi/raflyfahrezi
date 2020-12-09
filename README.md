@@ -1,6 +1,6 @@
 ## Hello ! 👋
 
-I'm a student of Universitas Komputer Indonesia majoring in Informatics Engineering. I realize I have a passion for computer science, so I started to explore technology since I was in elementary school and when I'm in senior high school I decide to take computer science for my collage. I’m a nice fun and friendly person, I’m honest and punctual, I work well in a team but also on my own as I like to set myself goals which I will achieve, I have good listening and communication skills. I have a creative mind and am always up for new challenges. I am well organized and always plan ahead to make sure I manage my time well.
+I am a student of Universitas Komputer Indonesia, majoring in Computer Science. I understand I have a passion for Computer Science, so I began to explore and discover technology since I was sitting in elementary school. When I`m in senior high school, I decide to take Computer Science for my university. Moreover, now I`m delighted in Computer Science, I`m continuously impressed with the technology that has been created, and I wish I can make innovation for a better future. I focused on web development, especially on the front-end side.
 
 ## Learn
 
@@ -13,7 +13,7 @@ I’m currently learning
 
 ## How to reach me
 
-You can contact me at [raflyfahrezi.vercel.app/contact](https://raflyfahrezi.vercel.app/contact)
+You can contact me at [raflyfahrezi.space](https://raflyfahrezi.space)
 
 ## Quotes
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler
