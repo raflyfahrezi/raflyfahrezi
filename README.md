@@ -14,11 +14,11 @@ I am a student of Universitas Komputer Indonesia, majoring in Computer Science. 
 ## Learn
 
 I’m currently learning
-   * Next.js
-   * Gatsby
-   * React
-   * PWA
-   * TWA
+   * Next.js - [Next.js Documentation](https://nextjs.org/)
+   * Gatsby - [Gatsby.js Documentation](https://www.gatsbyjs.com/docs/quick-start/)
+   * React - [React.js Documentation](https://reactjs.org/)
+   * Progressive Web Apps - [Progressive Web Apps Overview](https://web.dev/progressive-web-apps/)
+   * Trusted Web Activities (TWAs) 
 
 ## How to reach me
 
