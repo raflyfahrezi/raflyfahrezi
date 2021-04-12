@@ -24,7 +24,9 @@ I’m currently learning :
 * Progressive Web Apps (PWAs)
 * Trusted Web Activities (TWAs) 
 
-## Checkout My Products
+## Products
+
+Check out my products :
 
 * [My Portfolio](https://raflyfahrezi.space/)
 * [My Blog](https://blog.raflyfahrezi.space)
