@@ -18,10 +18,8 @@ Gatsby is a web framework based on React, this framework generate static website
 ## Learn
 
 I’m currently learning
-   * Next.js - [Documentation](https://nextjs.org/)
-   * Gatsby - [Documentation](https://www.gatsbyjs.com/docs/quick-start/)
-   * React - [Documentation](https://reactjs.org/)
-   * Progressive Web Apps - [Overview](https://web.dev/progressive-web-apps/)
+   * Production-Ready Web Apps 
+   * Progressive Web Apps (PWAs)
    * Trusted Web Activities (TWAs) 
 
 ## How to reach me
@@ -45,4 +43,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+    * Next.js - [Documentation](https://nextjs.org/)
+   * Gatsby - [Documentation](https://www.gatsbyjs.com/docs/quick-start/)
+   * React - [Documentation](https://reactjs.org/)
 -->
