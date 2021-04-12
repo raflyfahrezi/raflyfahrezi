@@ -15,7 +15,7 @@ Next.js is web framework based on React. I love how Next.js handle data fetching
 #### [Gatsby.js](https://www.gatsbyjs.com/docs/quick-start/)
 Gatsby is a web framework based on React, this framework generate static website at the end. Perfect for website does not need server. Gatsby have GraphQL technology inside, so don't need to configure anymore if want to using GraphQL. I used this framework when I using Contentful as the CMS, because Contentful support GraphQL and it is easier to use, i think.
 
-#### [Styled Components](https://styled-components.com/), [Redux](https://redux.js.org/), [Framer Motion](https://www.framer.com/motion/)
+#### [Styled Components](https://styled-components.com/) • [Redux](https://redux.js.org/) • [Framer Motion](https://www.framer.com/motion/)
 
 ## Learn
 
