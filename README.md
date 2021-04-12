@@ -3,7 +3,7 @@
 I am a student of Universitas Komputer Indonesia, majoring in Computer Science. I understand I have a passion for Computer Science, so I began to explore and discover technology since I was sitting in elementary school. When I\`m in senior high school, I decide to take Computer Science for my university. Moreover, now I\`m delighted in Computer Science, I\`m continuously impressed with the technology that has been created, and I wish I can make innovation for a better future. I focused on web development, especially on the front-end side.
 
 ## Area Of Expertise
-#### Web Development
+#### [Web Development](https://www.google.com/search?q=web+development)
 I love web development since 2018, especially on the front-end side, I've learned a lot about web development such as how to make a mobile-first website, how to handle website when user is offline or we called as Progressive Web Apps (PWA), how to optimized website for all devices and other amazing things.
 
 #### [React](https://reactjs.org/) 
