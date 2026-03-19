@@ -1,59 +1,37 @@
-## Hello ! 👋
+# Hi, I'm Farhan Rafly Fahrezi S
 
-## Area Of Expertise
-#### [Web Development](https://www.google.com/search?q=web+development)
-I love web development since 2018, especially on the front-end side, I've learned a lot about web development such as how to make a mobile-first website, how to handle website when user is offline or we called as Progressive Web Apps (PWA), how to optimized website for all devices and other amazing things.
+A frontend engineer with a soft spot for well-crafted interfaces. Currently exploring the broader world of software engineering — always curious about what I can build to make a small dent in the world.
 
-#### [React](https://reactjs.org/) 
-React is a library who can made developing website is more easier. I love how React thinking or they called as thinking in React, like the way we need to break the UI into a component hierarchy is too damn good. I used React or it's framework for the most of my products or projects.
+## About
 
-#### [Next.js](https://nextjs.org/) 
-Next.js is web framework based on React. I love how Next.js handle data fetching, it's a unique things from Next.js. The way they letting the devs to choose how to fetching the data is so lovely, we have many options to choose. Next.js is my favorite framework, I used this framework when I need or maybe need server to process/fetching data.
+- Frontend Engineer at [@trade-copilot](https://github.com/trade-copilot)
+- Organizer at [GDG Cloud Bandung](https://gdg.community.dev/gdg-cloud-bandung/)
+- Based in Indonesia, working remotely
+- Studied Informatics Engineering at Universitas Komputer Indonesia
 
-#### [Gatsby.js](https://www.gatsbyjs.com/docs/quick-start/)
-Gatsby is a web framework based on React, this framework generate static website at the end. Perfect for website does not need server. Gatsby have GraphQL technology inside, so don't need to configure anymore if want to using GraphQL. I used this framework when I using Contentful as the CMS, because Contentful support GraphQL and it is easier to use, i think.
+## Experience In
 
-#### [Styled Components](https://styled-components.com/) • [Redux](https://redux.js.org/) • [Framer Motion](https://www.framer.com/motion/)
+Frontend engineering — and always looking to learn beyond it.
 
-## Learn
+## Talks & Community
 
-I’m currently learning :
-* Production-Ready Web Apps 
-* Progressive Web Apps (PWAs)
-* Trusted Web Activities (TWAs) 
+- **Feature Flags for Safer Deployments** — Belajar Sambil Beramal Season 6, Feb 2026
+- **Gemini CLI Workshop** — Cloud DevFest Bandung 2025, Dec 2025
+- **React API Optimization Strategies** — Belajar Sambil Beramal Season 5, Mar 2025
+- Mentored 27 participants through Dicoding's Fundamental Front-End Web Development program
 
-## Products
+## Writing
 
-Check out my products :
+I write about web development, engineering practices, and occasionally things beyond code at [fahrezis.com](https://fahrezis.com).
 
-* [My Portfolio](https://raflyfahrezi.space/)
-* [My Blog](https://blog.raflyfahrezi.space)
-* [Tabu - Kesehatanmu Masa Depanmu](https://tabu.raflyfahrezi.space)
-* [Quran Apps](https://quran.raflyfahrezi.space)
+Recent posts:
+- [The Web Has No Guardrails, and That's the Point](https://fahrezis.com)
+- [Your Money Is Just a Number in Someone Else's Spreadsheet](https://fahrezis.com)
+- [How I Turned My VPS Datacenter IP Into a Residential IP Using an Old Phone](https://fahrezis.com)
 
-## How to reach me
+## Connect
 
-You can contact me at [raflyfahrezi.space](https://raflyfahrezi.space)
-
-## Quotes
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler
-
-<!--
-**raflyfahrezi/raflyfahrezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Hi there 👋 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-    * Next.js - [Documentation](https://nextjs.org/)
-   * Gatsby - [Documentation](https://www.gatsbyjs.com/docs/quick-start/)
-   * React - [Documentation](https://reactjs.org/)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanraflyfahrezi)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/raflyfahreziii)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/farhan_rafly_fahrezi)
+[![Website](https://img.shields.io/badge/fahrezis.com-111827?style=flat&logo=google-chrome&logoColor=white)](https://fahrezis.com)
